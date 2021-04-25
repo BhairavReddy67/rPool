@@ -1,0 +1,29 @@
+.container {
+    background-color: black;
+    border-radius: 5px;
+    height: 8vh;
+    width: 99vw;
+    color:  white;
+    display: flex;
+    justify-content: space-between;
+}
+.h2 {
+    color: rgb(81, 200, 81);
+    margin: 21px 100px;
+    cursor: pointer;
+}
+.container li {
+    list-style: none;
+    margin: 5px 32px;
+    font-size: 20px;
+}
+.container ul {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+}
+.container li>a{
+    text-decoration:  none;
+    color:  white;
+    cursor: pointer;
+}
