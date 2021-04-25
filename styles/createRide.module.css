@@ -1,0 +1,30 @@
+.form_css{
+    width: fit-content;
+    margin: 20px auto;
+}
+.form_css>form>input,.form_css>form>button{
+    margin: 5px;
+    padding: 2px;
+    width: 200px;
+}
+.form_css>form>p{
+    margin: 0px;
+    margin-bottom:0px ;
+    padding: 5px;
+}
+.prea{
+    margin-top: 20px;
+}
+.prea>pre,.prea>p,.prea>button{
+    line-height: 5px;
+    margin: 5px;
+    padding: 2px;
+}
+
+.prea>button{
+    width: 100px;
+    height: 25px;
+}
+.rides{
+    margin-top: 50px;
+}

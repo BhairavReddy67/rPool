@@ -1,0 +1,76 @@
+{
+  "createRide": [
+    {
+      "living_from": "Bangalore",
+      "going_to": "Hyderabad",
+      "date": "2021-04-26",
+      "time": "20:10",
+      "price": "600",
+      "setting": 1,
+      "name": "bhai",
+      "phone": "8341094617",
+      "booked_persons": [
+        {
+          "name": "bhai",
+          "phone": "8341094617"
+        },
+        {
+          "name": "bhai",
+          "phone": "8341094617"
+        },
+        {
+          "name": "Reddy",
+          "phone": "8341094617"
+        }
+      ],
+      "user_id": 12,
+      "id": 1
+    },
+    {
+      "living_from": "Bangalore",
+      "going_to": "Hyderabad",
+      "date": "2021-04-26",
+      "time": "20:10",
+      "price": "600",
+      "setting": 3,
+      "name": "bhai",
+      "phone": "8341094617",
+      "booked_persons": [],
+      "user_id": 13,
+      "id": 2
+    },
+    {
+      "living_from": "Bangalore",
+      "going_to": "Mangalore",
+      "date": "2021-04-25",
+      "time": "20:10",
+      "price": "600",
+      "setting": "3",
+      "name": "bhai",
+      "phone": "8341094617",
+      "booked_persons": [],
+      "user_id": 14,
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 11,
+      "name": "bhai",
+      "phone": "8341094617",
+      "password": "Bhai@1234"
+    },
+    {
+      "id": 12,
+      "name": "bhairav",
+      "phone": "8341094617",
+      "password": "Bhai@12345"
+    },
+    {
+      "id": 13,
+      "name": "Reddy",
+      "phone": "8341094617",
+      "password": "Bhai@12345"
+    }
+  ]
+}
